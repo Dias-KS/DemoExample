@@ -1,0 +1,82 @@
+﻿<Page x:Class="Namordnik.Views.Pages.ProductPages.ProductActionPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Namordnik.Views.Pages.ProductPages"
+      mc:Ignorable="d" 
+      FontSize="18" FontFamily="Tw Cen MT"
+      d:DesignHeight="650" d:DesignWidth="1100"
+      Title="Странциа с продуктами">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Column="0">
+            <StackPanel HorizontalAlignment="Center"
+                        VerticalAlignment="Center">
+                <Border BorderBrush="#B0E5FD"
+                        BorderThickness="1">
+                    <Image  Width="250"
+                            Source="{Binding Product.GetPicture}"
+                            Name="ProductPicture"
+                            Height="250"/>
+                </Border>
+                <Button Style="{StaticResource ResourceKey=StyleButtonFunction}"
+                        Margin="0,10,0,0"
+                        Content="Выбрать"
+                        Click="ButtonSelect_Click"/>
+            </StackPanel>
+        </Grid>
+
+        <Grid Grid.Column="1">
+            <StackPanel HorizontalAlignment="Center"
+                        VerticalAlignment="Center"
+                        Width="250">
+                <TextBlock Text="Наименование продукта: "/>
+                <TextBox Text="{Binding Product.TitleProduct}"/>
+                <TextBlock Text="Тип продукта:"/>
+                <ComboBox ItemsSource="{Binding Types}"
+                          SelectedItem="{Binding Product.TypeProduct}"
+                          DisplayMemberPath="Title"/>
+                <TextBlock Text="Артикул: "/>
+                <TextBox Text="{Binding Product.Article}"
+                         PreviewTextInput="ArticleTextInput_PreviewTextInput"/>
+                <TextBlock Text="Минимальная цена: "/>
+                <TextBox Text="{Binding Product.MinimumCostForAnAgent}"
+                         PreviewTextInput="MinimumCostForAnAgent_PreviewTextInput"/>
+                <TextBlock Text="Количество ч-л для произ-ва: "/>
+                <TextBox Text="{Binding Product.NumberOfPeopleForProduction}"
+                         PreviewTextInput="NumberOfPeopleForProduction_PreviewTextInput"/>
+                <TextBlock Text="Номер цеха: "/>
+                <TextBox Text="{Binding Product.WorkshopNumberForPeoduct}"
+                         PreviewTextInput="WorkshopNumberForPeoduct_PreviewTextInput"/>
+                <TextBlock Text="Длина: "/>
+                <TextBox Text="{Binding Characteristic.Length}"
+                         PreviewTextInput="Length_PreviewTextInput"/>
+                <TextBlock Text="Ширина: "/>
+                <TextBox Text="{Binding Characteristic.Width}"
+                         PreviewTextInput="Width_PreviewTextInput"/>
+                <TextBlock Text="Высота: "/>
+                <TextBox Text="{Binding Characteristic.Heigth}"
+                         PreviewTextInput="Heigth_PreviewTextInput"/>
+                <TextBlock Text="Вес в коробке: "/>
+                <TextBox Text="{Binding Characteristic.ShippingWeight}"
+                         PreviewTextInput="ShippingWeight_PreviewTextInput"/>
+                <TextBlock Text="Вес без коробке: "/>
+                <TextBox Text="{Binding Characteristic.WeightWithoutPackaging}"
+                         PreviewTextInput="WeightWithoutPackaging_PreviewTextInput"/>
+                <TextBlock Text="Стандрат: "/>
+                <TextBox Text="{Binding Characteristic.Standard}"/>
+                <Button Style="{StaticResource ResourceKey=StyleButtonFunction}"
+                        Margin="0,5,0,0"
+                        Width="250"
+                        Content="Сохранить"
+                        Click="ButtonSave_Click"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Page>

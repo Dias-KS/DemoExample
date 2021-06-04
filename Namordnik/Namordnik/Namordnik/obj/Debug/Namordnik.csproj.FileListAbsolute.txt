@@ -1,0 +1,110 @@
+E:\general files\tasks demo 2021\1-2\Namordnik\Namordnik\Namordnik\bin\Debug\Namordnik.exe.config
+E:\general files\tasks demo 2021\1-2\Namordnik\Namordnik\Namordnik\bin\Debug\Namordnik.exe
+E:\general files\tasks demo 2021\1-2\Namordnik\Namordnik\Namordnik\bin\Debug\Namordnik.pdb
+E:\general files\tasks demo 2021\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik.csprojAssemblyReference.cache
+E:\general files\tasks demo 2021\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Windows\MainWindow.g.cs
+E:\general files\tasks demo 2021\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\App.g.cs
+E:\general files\tasks demo 2021\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik_MarkupCompile.cache
+E:\general files\tasks demo 2021\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik_MarkupCompile.lref
+E:\general files\tasks demo 2021\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Windows\MainWindow.baml
+E:\general files\tasks demo 2021\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik.g.resources
+E:\general files\tasks demo 2021\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik.Properties.Resources.resources
+E:\general files\tasks demo 2021\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik.csproj.GenerateResource.cache
+E:\general files\tasks demo 2021\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik.csproj.CoreCompileInputs.cache
+E:\general files\tasks demo 2021\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik.exe
+E:\general files\tasks demo 2021\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik.pdb
+E:\general files\tasks demo 2021\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\App.baml
+E:\general files\tasks demo 2021\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Pages\MainViewPage.g.cs
+E:\general files\tasks demo 2021\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Pages\MainViewPage.baml
+E:\general files\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\bin\Debug\Namordnik.exe.config
+E:\general files\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\bin\Debug\Namordnik.exe
+E:\general files\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\bin\Debug\Namordnik.pdb
+E:\general files\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik.csprojAssemblyReference.cache
+E:\general files\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Pages\MainViewPage.g.cs
+E:\general files\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Windows\MainWindow.g.cs
+E:\general files\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\App.g.cs
+E:\general files\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik_MarkupCompile.cache
+E:\general files\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik_MarkupCompile.lref
+E:\general files\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\App.baml
+E:\general files\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Pages\MainViewPage.baml
+E:\general files\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Windows\MainWindow.baml
+E:\general files\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik.g.resources
+E:\general files\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik.Properties.Resources.resources
+E:\general files\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik.csproj.GenerateResource.cache
+E:\general files\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik.csproj.CoreCompileInputs.cache
+E:\general files\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik.exe
+E:\general files\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik.pdb
+E:\general files\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\bin\Debug\EntityFramework.dll
+E:\general files\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\bin\Debug\EntityFramework.SqlServer.dll
+E:\general files\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\bin\Debug\EntityFramework.xml
+E:\general files\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\bin\Debug\EntityFramework.SqlServer.xml
+E:\general files\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Pages\ProductPages\ProductListViewPage.g.cs
+E:\general files\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik_Content.g.cs
+E:\general files\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Pages\ProductPages\ProductListViewPage.baml
+E:\general files\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik.csproj.CopyComplete
+E:\general files\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Pages\ProductPages\ProductActionPage.g.cs
+E:\general files\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Pages\ProductPages\ProductActionPage.baml
+E:\general files\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Pages\MaterialPages\MaterialViewPage.g.cs
+E:\general files\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Pages\MaterialPages\MaterialViewPage.baml
+C:\Users\62427\Desktop\Новая папка\2\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\bin\Debug\Namordnik.exe.config
+C:\Users\62427\Desktop\Новая папка\2\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\bin\Debug\Namordnik.exe
+C:\Users\62427\Desktop\Новая папка\2\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\bin\Debug\Namordnik.pdb
+C:\Users\62427\Desktop\Новая папка\2\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\bin\Debug\EntityFramework.dll
+C:\Users\62427\Desktop\Новая папка\2\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\62427\Desktop\Новая папка\2\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\bin\Debug\EntityFramework.xml
+C:\Users\62427\Desktop\Новая папка\2\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\62427\Desktop\Новая папка\2\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik.csprojAssemblyReference.cache
+C:\Users\62427\Desktop\Новая папка\2\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Pages\MainViewPage.g.cs
+C:\Users\62427\Desktop\Новая папка\2\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Pages\MaterialPages\MaterialViewPage.g.cs
+C:\Users\62427\Desktop\Новая папка\2\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Pages\ProductPages\ProductActionPage.g.cs
+C:\Users\62427\Desktop\Новая папка\2\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Pages\ProductPages\ProductListViewPage.g.cs
+C:\Users\62427\Desktop\Новая папка\2\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\62427\Desktop\Новая папка\2\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\App.g.cs
+C:\Users\62427\Desktop\Новая папка\2\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik_Content.g.cs
+C:\Users\62427\Desktop\Новая папка\2\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik_MarkupCompile.cache
+C:\Users\62427\Desktop\Новая папка\2\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik_MarkupCompile.lref
+C:\Users\62427\Desktop\Новая папка\2\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\App.baml
+C:\Users\62427\Desktop\Новая папка\2\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Pages\MainViewPage.baml
+C:\Users\62427\Desktop\Новая папка\2\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Pages\MaterialPages\MaterialViewPage.baml
+C:\Users\62427\Desktop\Новая папка\2\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Pages\ProductPages\ProductActionPage.baml
+C:\Users\62427\Desktop\Новая папка\2\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Pages\ProductPages\ProductListViewPage.baml
+C:\Users\62427\Desktop\Новая папка\2\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Windows\MainWindow.baml
+C:\Users\62427\Desktop\Новая папка\2\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik.g.resources
+C:\Users\62427\Desktop\Новая папка\2\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik.Properties.Resources.resources
+C:\Users\62427\Desktop\Новая папка\2\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik.csproj.GenerateResource.cache
+C:\Users\62427\Desktop\Новая папка\2\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik.csproj.CoreCompileInputs.cache
+C:\Users\62427\Desktop\Новая папка\2\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik.csproj.CopyComplete
+C:\Users\62427\Desktop\Новая папка\2\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik.exe
+C:\Users\62427\Desktop\Новая папка\2\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik.pdb
+C:\Users\62427\Desktop\Новая папка\2\Demo-Solution\1-2\Namordnik\Namordnik\Namordnik\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\derev\OneDrive\Рабочий стол\Demo-Solution-2-June\1-2\Namordnik\Namordnik\Namordnik\bin\Debug\Namordnik.exe.config
+C:\Users\derev\OneDrive\Рабочий стол\Demo-Solution-2-June\1-2\Namordnik\Namordnik\Namordnik\bin\Debug\Namordnik.exe
+C:\Users\derev\OneDrive\Рабочий стол\Demo-Solution-2-June\1-2\Namordnik\Namordnik\Namordnik\bin\Debug\Namordnik.pdb
+C:\Users\derev\OneDrive\Рабочий стол\Demo-Solution-2-June\1-2\Namordnik\Namordnik\Namordnik\bin\Debug\EntityFramework.dll
+C:\Users\derev\OneDrive\Рабочий стол\Demo-Solution-2-June\1-2\Namordnik\Namordnik\Namordnik\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\derev\OneDrive\Рабочий стол\Demo-Solution-2-June\1-2\Namordnik\Namordnik\Namordnik\bin\Debug\EntityFramework.xml
+C:\Users\derev\OneDrive\Рабочий стол\Demo-Solution-2-June\1-2\Namordnik\Namordnik\Namordnik\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\derev\OneDrive\Рабочий стол\Demo-Solution-2-June\1-2\Namordnik\Namordnik\Namordnik\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\derev\OneDrive\Рабочий стол\Demo-Solution-2-June\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik.csprojAssemblyReference.cache
+C:\Users\derev\OneDrive\Рабочий стол\Demo-Solution-2-June\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Pages\MainViewPage.g.cs
+C:\Users\derev\OneDrive\Рабочий стол\Demo-Solution-2-June\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Pages\MaterialPages\MaterialViewPage.g.cs
+C:\Users\derev\OneDrive\Рабочий стол\Demo-Solution-2-June\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Pages\ProductPages\ProductActionPage.g.cs
+C:\Users\derev\OneDrive\Рабочий стол\Demo-Solution-2-June\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Pages\ProductPages\ProductListViewPage.g.cs
+C:\Users\derev\OneDrive\Рабочий стол\Demo-Solution-2-June\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\derev\OneDrive\Рабочий стол\Demo-Solution-2-June\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\App.g.cs
+C:\Users\derev\OneDrive\Рабочий стол\Demo-Solution-2-June\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik_Content.g.cs
+C:\Users\derev\OneDrive\Рабочий стол\Demo-Solution-2-June\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik_MarkupCompile.cache
+C:\Users\derev\OneDrive\Рабочий стол\Demo-Solution-2-June\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik_MarkupCompile.lref
+C:\Users\derev\OneDrive\Рабочий стол\Demo-Solution-2-June\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\App.baml
+C:\Users\derev\OneDrive\Рабочий стол\Demo-Solution-2-June\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Pages\MainViewPage.baml
+C:\Users\derev\OneDrive\Рабочий стол\Demo-Solution-2-June\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Pages\MaterialPages\MaterialViewPage.baml
+C:\Users\derev\OneDrive\Рабочий стол\Demo-Solution-2-June\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Pages\ProductPages\ProductActionPage.baml
+C:\Users\derev\OneDrive\Рабочий стол\Demo-Solution-2-June\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Pages\ProductPages\ProductListViewPage.baml
+C:\Users\derev\OneDrive\Рабочий стол\Demo-Solution-2-June\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Views\Windows\MainWindow.baml
+C:\Users\derev\OneDrive\Рабочий стол\Demo-Solution-2-June\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik.g.resources
+C:\Users\derev\OneDrive\Рабочий стол\Demo-Solution-2-June\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik.Properties.Resources.resources
+C:\Users\derev\OneDrive\Рабочий стол\Demo-Solution-2-June\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik.csproj.GenerateResource.cache
+C:\Users\derev\OneDrive\Рабочий стол\Demo-Solution-2-June\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik.csproj.CoreCompileInputs.cache
+C:\Users\derev\OneDrive\Рабочий стол\Demo-Solution-2-June\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik.csproj.CopyComplete
+C:\Users\derev\OneDrive\Рабочий стол\Demo-Solution-2-June\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik.exe
+C:\Users\derev\OneDrive\Рабочий стол\Demo-Solution-2-June\1-2\Namordnik\Namordnik\Namordnik\obj\Debug\Namordnik.pdb
